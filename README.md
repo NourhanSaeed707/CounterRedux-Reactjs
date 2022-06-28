@@ -1,6 +1,6 @@
 # CounterRedux-Reactjs
 
-##install packadge:
+#install packadge:
 - npm install
 - npm i redux
 - npm i react-redux
